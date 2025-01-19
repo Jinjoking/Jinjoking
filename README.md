@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Monogame
 - 📫 Reach me @drumcorundumconundrum on Tumblr
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favorite emoticon is :D. (I have it tattooed on my body :D)
+- ⚡ Fun fact: My favorite emoticon is :D.
 
 <!---
 Jinjoking/Jinjoking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
